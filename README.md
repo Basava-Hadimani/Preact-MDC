@@ -12,20 +12,15 @@ git clone https://github.com/Basava-Hadimani/Preact-MDC.git
 
 cd Preact-MDC
 
-Step 2:
--------
-install babel-preset for preact
 
-npm install babel-preset-preact --save-dev
-
-
-Step 3: 
+Step 2: 
 -------
 Download all the node modules
 
 npm install
 
 step 3 : start the project
+--------------------------
 
 npm start
 
