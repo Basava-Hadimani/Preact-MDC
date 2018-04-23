@@ -4,7 +4,7 @@ This project is developed to understand preact
 
 User can upload images from the local store, crop it and download it in the local store using this web application
 
-step 1:
+Step 1:
 ------
 Run below command to clone repo
 
@@ -12,14 +12,14 @@ git clone https://github.com/Basava-Hadimani/Preact-MDC.git
 
 cd Preact-MDC
 
-step 2:
+Step 2:
 -------
 install babel-preset for preact
 
 npm install babel-preset-preact --save-dev
 
 
-step 3: 
+Step 3: 
 -------
 Download all the node modules
 
