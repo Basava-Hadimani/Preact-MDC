@@ -1,4 +1,5 @@
 Preact with material design component css
+-----------------------------------------
 This project is developed to understand preact
 
 User can upload images from the local store, crop it and download it in the local store using this web application
